@@ -1,3 +1,0 @@
-Ao coletar os dados do novo colaborador ele envia para a base de dados e os salva para uma possível pesquisa posteriormente a conexão é constante e passiva de atualização para alterações necessárias.
-
-Ao buscar os dados do novo colaborador o equipamento vai até a base de dados e verificar a informação e se é verdadeira, se não, retorna para a tela de login, se for verdadeiro ele aprova a impressão e encaminha para impressor realizar a impressão do crachá de acordo com os dados.
