@@ -1,0 +1,5 @@
+Arquitetura
+
+O projeto do sistema voltada para o setor de RH, necessitara de um banco de dados que suporte a quantidade de informações, dos funcionários contratados recentemente, que serão armazenadas pelo pessoal responsável.
+
+Será necessária uma interface simples que permita que o grupo encarregado consiga passar as informações para o banco de dados de maneira simples, e por fim, um meio de comunicação entre o banco de dados, a interface e a impressora.
