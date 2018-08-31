@@ -1,0 +1,3 @@
+Os testes serão realizados para localizar e substituir possíveis falhas do sistema, assim proporcionado o melhoramento do software em desenvolvimento. A área de testes assim que localiza algum erro já transmite para a área de programação.
+
+Desta forma todo  o projeto do software permanece  sempre atualizado e funcional. Testes são realizados com frequência pela equipe e  todas as áreas do projeto cooperam entre si com feedbacks.
