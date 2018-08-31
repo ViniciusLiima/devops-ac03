@@ -1,2 +1,0 @@
-O projeto será a criação de cracha para novos colaboradores e impressão dos mesmos. Deverá conter dados como CPF, data de nascimento, nome completo.
-Essas informações serão coletadas pelo programa e gerado o novo crachá pelo sistema e apos será encaminhado para impressão.
